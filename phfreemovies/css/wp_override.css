@@ -1,0 +1,35 @@
+body.login {
+    background-color: #f3f3f3;
+}
+
+.login #backtoblog a,
+.login #nav a {
+    color: #0073aa !important;
+}
+
+.login form {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.login form {
+    padding-bottom: 20px;
+    display: flex !important;
+    flex-direction: column;
+    width: 100% !important;
+}
+
+.wp-core-ui .button-group.button-large .button,
+.wp-core-ui .button.button-large {
+    min-height: 32px;
+    line-height: 2.30769231;
+    padding: 0 12px;
+    width: 100% !important;
+}
+
+div.nsl-container .nsl-container-buttons {
+    display: flex;
+    padding: 5px 0;
+    width: 100% !important;
+}
+
+
